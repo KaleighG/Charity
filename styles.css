@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Fallback background color */
+}
+
+
+.container {
+    position: relative;
+    background-image: url('images1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust as needed */
+    color: lightskyblue; /* Text color for better visibility */
+    text-align: center;
+    padding: 100px; /* Adjust padding as needed */
+}
+
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
